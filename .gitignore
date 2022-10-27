@@ -1,0 +1,10 @@
+*.iml
+wp
+vendor
+composer.lock
+!wp-content
+wp-content/*
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/halloween-child
+credentials
